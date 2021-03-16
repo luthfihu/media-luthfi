@@ -1,0 +1,14 @@
+body {
+    background-color: #f2fcdc;
+    min-width: auto;
+}
+
+section {
+    padding-top: 3rem;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+}
+
+
